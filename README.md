@@ -1,6 +1,6 @@
 # nodeJS
 
-wrote by Ilia Hrom.
+wrote by Ilia Hrom and Bar Fahima
 
 all work progress in nodeJS
 
