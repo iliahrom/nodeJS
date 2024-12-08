@@ -1,4 +1,0 @@
-line 1 from file text4
-line 2 from file text4
-line 3 from file text4
-line 4 from file text4

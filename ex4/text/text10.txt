@@ -1,8 +1,0 @@
-line 1 from file text10
-line 2 from file text10
-line 3 from file text10
-line 4 from file text10
-line 5 from file text10
-line 6 from file text10
-line 7 from file text10
-line 8 from file text10

@@ -1,5 +1,0 @@
-line 1 from file text9
-line 2 from file text9
-line 3 from file text9
-line 4 from file text9
-line 5 from file text9
