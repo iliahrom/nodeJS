@@ -34,5 +34,5 @@ for (let i = 0; i < textFiles.length; i++) {
 }
 
 const outputFilePath = path.join(dirPath, "output.txt");
-fs.writeFileSync(outputFilePath, textOut.trim(), "utf-8"); //removing spaces in the ends
+fs.writeFileSync(outputFilePath, textOut.trim(), "utf-8"); //removing spaces in the ends of the lines
 console.log(`Text written to: ${outputFilePath}`);
