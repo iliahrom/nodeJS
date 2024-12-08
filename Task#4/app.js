@@ -11,7 +11,7 @@ one rows from first file
 2 rows fron the second file
 3 rows from the 3rd file
 
-till n line from n file.
+till n rows from n file.
 **if the file don't have enough rows it will copy only the available rows
 */
 const textFiles = [
